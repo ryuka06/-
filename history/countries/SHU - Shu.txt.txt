@@ -1,0 +1,55 @@
+capital = 605
+
+oob = "SHU_1936"
+
+325 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+601 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+605 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+640 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+751 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+753 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+754 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+747 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+752 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	neutrality = 100
+}
+
+create_country_leader = {
+    name = "Ubi"
+    desc = ""
+    picture = "Ubi.dds"
+    ideology = despotism
+    traits = {
+
+    }
+}
+
+
+
+	
